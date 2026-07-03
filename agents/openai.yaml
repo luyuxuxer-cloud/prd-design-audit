@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD Design Audit"
+  short_description: "Audit PRDs and turn them into design-ready briefs"
+  default_prompt: "Use $prd-design-audit to review this PRD for design risks, success metrics, and glossary terms."
